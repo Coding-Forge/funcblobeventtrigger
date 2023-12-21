@@ -1,0 +1,14 @@
+azd env set AZURE_STORAGE_ACCOUNT $AZURE_STORAGE_ACCOUNT                  
+azd env set AZURE_STORAGE_CONTAINER $AZURE_STORAGE_CONTAINER        
+azd env set AZURE_SEARCH_SERVICE $AZURE_SEARCH_SERVICE           
+azd env set AZURE_SEARCH_INDEX $AZURE_SEARCH_INDEX             
+azd env set AZURE_OPENAI_SERVICE $AZURE_OPENAI_SERVICE           
+azd env set AZURE_OPENAI_GPT_DEPLOYMENT $AZURE_OPENAI_GPT_DEPLOYMENT
+azd env set AZURE_OPENAI_CHATGPT_DEPLOYMENT $AZURE_OPENAI_CHATGPT_DEPLOYMENT
+azd env set AZURE_OPENAI_CHATGPT_MODEL $AZURE_OPENAI_CHATGPT_MODEL
+azd env set AZURE_FORMRECOGNIZER_SERVICE $AZURE_FORMRECOGNIZER_SERVICE
+azd env set AZURE_OPENAI_EMB_DEPLOYMENT "embedding"
+azd env set search_query_key $search_query_key
+azd env set form_recognizer_key $form_recognizer_key
+azd env set formrecognizerkey $form_recognizer_key     
+azd env set storagekey $azure_storage_key
