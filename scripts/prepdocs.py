@@ -337,4 +337,3 @@ class CogIndexer:
             open_ai_token_cache[CACHE_KEY_CREATED_TIME] = time.time()
         else:
             print('dont need one')
-
